@@ -1,0 +1,18 @@
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\bin\Debug\CapaDatos_BibliotecaEan.dll
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\bin\Debug\CapaDatos_BibliotecaEan.pdb
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\bin\Debug\CapaEntidad_BibliotecaEan.dll
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\bin\Debug\CapaEntidad_BibliotecaEan.pdb
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.csproj.CopyComplete
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.dll
+C:\Users\andre\source\repos\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.pdb
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\bin\Debug\CapaDatos_BibliotecaEan.dll
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\bin\Debug\CapaDatos_BibliotecaEan.pdb
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\bin\Debug\CapaEntidad_BibliotecaEan.dll
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\bin\Debug\CapaEntidad_BibliotecaEan.pdb
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.csproj.CopyComplete
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.dll
+C:\Users\andre\OneDrive - universidadean.edu.co\PROGRAMACION_U\PROGRAMACION\Reto_2\CapaDatos_BibliotecaEan\obj\Debug\CapaDatos_BibliotecaEan.pdb
