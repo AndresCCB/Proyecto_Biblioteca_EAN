@@ -1,6 +1,6 @@
 # Reto_2
 
-Un proyecto realizado completamente en C#, junto con la base de datos SQL SERVER, y para la parte grafica fue usado el software Visual Studio, este proyecto te generaba un unico formulario el cual permite Agregar, Modificar, Eliminar, Buscar y Listar los libros que puedan estar en la Universidad EAN, los cuales se almacenaran en la base de datos correspondiente.
+Un proyecto realizado completamente en C#, junto con la base de datos SQL SERVER, y para la parte grafica fue usado el software Visual Studio, este proyecto te generaba un unico formulario el cual permite Agregar, Modificar, Eliminar, Buscar y Listar los libros que puedan estar en la Universidad EAN, los cuales se almacenaran en la base de datos correspondiente, adicionalmente, esta aplicación cuenta con seguridad informatica, por lo tanto, fue trabajado con 3 capas, la capa de datos, la capa lógica y la capa presentación.
 <br />
 <br />
 Este Proyecto fue realizado para la Materia Bases de Datos, de la carera de ingenieria de sistemas en la universidad EAN, por el estudiante de 6to semestre Andres Camilo Castro Bravo.
