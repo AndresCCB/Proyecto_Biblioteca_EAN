@@ -1,5 +1,12 @@
 # Reto_2
 
+Un proyecto realizado completamente en C#, junto con la base de datos SQL SERVER, este proyecto te generaba un unico formulario el cual permite Agregar, Modificar, Eliminar, Buscar y Listar los libros que puedan estar en la Universidad EAN, los cuales se almacenaran en la base de datos correspondiente.
+<br />
+<br />
+Este Proyecto fue realizado para la Materia Bases de Datos, de la carera de ingenieria de sistemas en la universidad EAN, por el estudiante de 6to semestre Andres Camilo Castro Bravo.
+<br />
+<br />
+
 ## Pantalla inicial
 
 ![WhatsApp Image 2022-10-07 at 10 14 58 AM](https://user-images.githubusercontent.com/110188177/194590295-c199f349-9441-4f7a-a4d7-57a456437f7a.jpeg)
